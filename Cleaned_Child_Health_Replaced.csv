@@ -1,0 +1,251 @@
+"Country","Coverage_BCG","Coverage_DTP1","Coverage_DTP3","Coverage_Polio3","Coverage_MCV1","Coverage_MCV2","Coverage_HepB3","Coverage_Hib3","Coverage_Rota","Coverage_PCV3","Coverage_PAB_Tetanus","ARI_Seeking","Diarrhoea_ORS","Fever_Care","ITN_Children","ITN_Households"
+"Afghanistan",87,78,70,75,66,43,70,70,62,68,63,68,40,62,5,26
+"Albania",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,96,82,35,60,NA,NA
+"Algeria",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,98,47,27,NA,NA,NA
+"Andorra",NA,99,99,99,98,93,98,98,NA,96,NA,NA,NA,NA,NA,NA
+"Angola",58,61,51,51,44,41,47,47,39,47,70,49,43,51,22,31
+"Anguilla",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Antigua and Barbuda",NA,98,96,95,89,78,95,99,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina",75,79,74,74,77,71,74,74,72,75,NA,94,18,NA,NA,NA
+"Armenia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,92,37,71,NA,NA
+"Australia",NA,98,95,95,95,94,95,95,87,97,NA,NA,NA,NA,NA,NA
+"Austria",NA,90,85,85,94,84,85,85,61,NA,NA,NA,NA,NA,NA,NA
+"Azerbaijan",94,85,79,85,82,79,79,79,NA,79,NA,33,8,NA,1,NA
+"Bahamas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+"Bahrain",NA,99,98,98,99,99,98,98,98,99,99,NA,NA,NA,NA,NA
+"Bangladesh",99,99,98,98,97,93,98,98,NA,99,98,46,72,56,NA,NA
+"Barbados",NA,86,85,85,89,78,85,85,NA,86,NA,NA,NA,NA,NA,NA
+"Belarus",97,97,97,97,97,98,97,97,NA,NA,NA,93,45,NA,NA,NA
+"Belgium",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belize",76,79,79,79,82,87,79,79,NA,NA,95,67,55,71,NA,NA
+"Benin",88,83,72,73,65,NA,72,72,62,68,81,29,22,53,70,85
+"Bhutan",98,96,95,96,93,92,96,96,NA,90,90,74,61,NA,NA,NA
+"Bolivia (Plurinational State of)",82,79,68,68,74,46,68,68,74,68,89,62,22,NA,NA,NA
+"Bosnia and Herzegovina",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,87,36,NA,NA,NA
+"Botswana",98,98,95,96,87,66,95,95,85,90,91,14,43,75,31,53
+"Brazil",67,88,77,74,79,44,77,77,76,79,96,50,NA,NA,NA,NA
+"British Virgin Islands",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brunei Darussalam",99,99,99,99,99,97,99,99,NA,NA,97,NA,NA,NA,NA,NA
+"Bulgaria",97,94,91,91,88,84,91,91,45,85,NA,NA,NA,NA,NA,NA
+"Burkina Faso",98,95,91,91,88,71,91,91,91,91,95,56,40,74,54,75
+"Burundi",83,98,93,93,90,83,93,93,96,93,90,59,36,70,40,46
+"Cabo Verde",98,93,93,94,95,86,94,94,NA,NA,95,NA,NA,NA,NA,NA
+"Cambodia",98,94,92,94,84,80,92,92,NA,90,95,69,35,61,4,5
+"Cameroon",80,77,69,70,62,28,69,69,67,69,83,30,18,61,60,73
+"Canada",NA,94,91,92,90,83,84,92,84,84,NA,NA,NA,NA,NA,NA
+"Central African Republic",61,54,42,46,41,NA,42,42,NA,40,63,35,23,32,51,61
+"Chad",60,69,52,52,47,NA,52,52,NA,NA,78,26,20,23,36,77
+"Chile",98,98,93,93,91,83,93,93,NA,89,NA,NA,NA,NA,NA,NA
+"China",99,99,99,99,99,99,99,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Colombia",89,92,88,88,90,88,88,88,87,89,97,64,54,54,NA,3
+"Comoros",91,93,87,81,89,NA,87,87,NA,NA,83,38,38,45,41,59
+"Congo",72,77,73,73,68,29,73,73,60,71,87,28,27,51,61,66
+"Cook Islands",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Costa Rica",99,96,95,94,95,93,98,94,95,95,NA,80,56,74,NA,NA
+"Côte d'Ivoire",86,93,80,74,70,NA,80,80,77,79,86,44,17,45,60,76
+"Croatia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cuba",99,99,99,98,98,98,99,99,NA,NA,NA,90,35,85,NA,NA
+"Cyprus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Czechia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Democratic People's Republic of Korea",99,98,97,70,99,99,97,97,NA,NA,98,86,74,NA,NA,NA
+"Democratic Republic of the Congo",73,66,57,59,57,NA,57,57,33,58,85,34,24,46,51,63
+"Denmark",NA,97,97,97,94,90,NA,97,NA,96,NA,NA,NA,NA,NA,NA
+"Djibouti",77,76,70,70,62,60,70,70,72,70,98,94,94,NA,20,32
+"Dominica",98,99,97,97,92,90,97,97,NA,NA,NA,NA,NA,NA,NA,NA
+"Dominican Republic",85,86,82,80,82,55,81,80,77,69,99,73,48,65,NA,NA
+"Ecuador",81,74,70,72,81,70,70,70,75,76,88,NA,46,NA,NA,NA
+"Egypt",96,95,94,95,94,94,94,94,NA,NA,86,68,28,68,NA,NA
+"El Salvador",79,79,72,64,71,56,72,72,75,78,92,80,70,NA,NA,NA
+"Equatorial Guinea",85,77,53,55,53,NA,53,53,NA,NA,60,54,40,62,23,38
+"Eritrea",97,97,95,95,93,85,95,95,96,95,99,45,43,NA,20,71
+"Estonia",91,92,91,91,91,87,90,91,82,NA,NA,NA,NA,NA,NA,NA
+"Eswatini",97,87,83,82,76,70,83,83,63,83,90,60,84,63,2,10
+"Ethiopia",70,76,71,74,60,46,71,71,70,67,90,30,30,35,45,64
+"Fiji",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,96,NA,NA,NA,NA,NA
+"Finland",NA,98,91,91,96,93,NA,91,83,89,NA,NA,NA,NA,NA,NA
+"France",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Gabon",85,69,63,62,53,NA,63,63,NA,NA,83,68,26,67,39,36
+"Gambia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,95,70,44,64,44,77
+"Georgia",96,95,88,88,91,77,88,88,75,82,NA,74,42,67,NA,NA
+"Germany",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ghana",93,94,94,92,88,79,94,94,89,95,90,56,48,69,54,74
+"Greece",NA,99,99,99,97,83,96,99,20,96,NA,NA,NA,NA,NA,NA
+"Grenada",NA,79,72,72,83,79,72,72,NA,NA,NA,NA,NA,NA,NA,NA
+"Guatemala",86,92,83,83,88,79,89,89,85,86,91,52,49,50,NA,NA
+"Guinea",73,62,47,48,47,NA,47,47,NA,NA,83,69,55,62,27,44
+"Guinea-Bissau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,83,48,30,52,94,97
+"Guyana",94,99,99,91,98,97,99,99,97,89,99,84,43,71,7,5
+"Haiti",73,75,51,51,65,41,51,51,51,51,80,37,39,40,18,31
+"Holy See",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Honduras",83,85,80,80,82,79,80,80,83,80,99,64,60,62,NA,NA
+"Hungary",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Iceland",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"India",85,87,85,85,89,81,85,85,82,21,90,78,51,73,5,1
+"Indonesia",87,83,77,76,76,49,77,77,NA,4,85,75,36,90,3,3
+"Iran (Islamic Republic of)",98,99,99,99,99,98,99,99,NA,NA,96,76,61,NA,NA,NA
+"Iraq",99,90,74,78,76,93,74,74,42,NA,73,44,25,75,NA,NA
+"Ireland",NA,98,94,94,92,NA,94,94,89,86,NA,NA,NA,NA,NA,NA
+"Israel",NA,99,98,98,99,96,96,98,79,94,NA,NA,NA,NA,NA,NA
+"Italy",NA,94,94,94,92,86,94,94,63,91,NA,NA,NA,NA,NA,NA
+"Jamaica",99,97,96,95,93,89,95,96,NA,NA,91,82,64,NA,NA,NA
+"Japan",95,98,96,96,98,95,92,95,NA,95,NA,NA,NA,NA,NA,NA
+"Jordan",76,78,77,76,76,90,77,77,75,NA,92,61,44,68,NA,NA
+"Kazakhstan",93,94,88,88,93,91,88,88,NA,89,NA,81,62,NA,NA,NA
+"Kenya",92,94,89,89,88,49,91,89,93,90,88,66,54,72,56,59
+"Kiribati",93,99,92,91,82,57,92,92,89,91,93,87,61,27,69,86
+"Kuwait",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,99,NA,NA,NA,NA,NA
+"Kyrgyzstan",96,90,87,87,92,93,86,86,52,90,NA,60,36,48,NA,NA
+"Lao People's Democratic Republic",90,87,79,78,79,47,79,79,NA,77,93,40,56,58,50,61
+"Latvia",99,99,99,99,99,94,99,99,86,91,NA,NA,NA,NA,NA,NA
+"Lebanon",NA,87,71,67,74,64,71,71,NA,74,NA,74,44,NA,NA,NA
+"Lesotho",87,92,87,83,75,69,87,87,87,87,85,58,40,61,NA,NA
+"Liberia",85,82,65,67,61,30,65,65,65,65,90,78,60,81,44,55
+"Libya",74,74,73,73,73,72,73,73,73,73,NA,NA,NA,NA,NA,NA
+"Liechtenstein",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lithuania",96,95,91,91,90,91,91,91,48,83,NA,NA,NA,NA,NA,NA
+"Luxembourg",NA,99,99,99,99,90,96,99,89,96,NA,NA,NA,NA,NA,NA
+"Madagascar",73,73,68,76,59,24,70,70,64,65,75,40,19,48,62,78
+"Malawi",87,95,94,93,90,75,90,90,91,93,90,77,65,54,68,82
+"Malaysia",99,99,98,98,95,84,99,98,NA,NA,95,92,45,NA,NA,NA
+"Maldives",99,99,99,99,99,96,99,99,NA,NA,99,74,75,86,NA,NA
+"Mali",78,75,70,65,62,26,70,70,68,66,87,35,21,53,79,85
+"Malta",NA,99,98,98,95,99,98,98,NA,NA,NA,NA,NA,NA,NA,NA
+"Marshall Islands",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,38,63,NA,NA
+"Mauritania",80,79,71,76,72,NA,71,71,71,70,83,34,25,35,32,49
+"Mauritius",96,94,93,94,89,87,93,93,92,86,97,NA,NA,NA,NA,NA
+"Mexico",28,79,74,74,89,78,79,74,71,75,96,73,61,NA,NA,NA
+"Micronesia (Federated States of)",84,98,83,82,79,62,88,68,40,79,NA,NA,NA,NA,NA,NA
+"Monaco",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mongolia",99,98,96,97,97,96,96,96,NA,92,NA,76,58,NA,NA,NA
+"Montenegro",67,94,84,84,24,76,52,84,NA,NA,NA,89,16,74,NA,NA
+"Montserrat",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Morocco",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,90,70,22,NA,NA,NA
+"Mozambique",91,83,79,73,81,62,79,79,79,65,86,57,46,69,73,82
+"Myanmar",87,87,84,86,91,90,84,84,49,86,90,58,62,65,19,27
+"Namibia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,90,68,72,63,6,24
+"Nauru",99,99,95,95,98,97,95,95,NA,NA,NA,69,23,51,NA,NA
+"Nepal",92,89,84,84,87,74,84,84,NA,80,89,82,60,73,NA,NA
+"Netherlands",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"New Zealand",NA,94,92,92,91,91,92,92,88,92,NA,NA,NA,NA,NA,NA
+"Nicaragua",93,94,92,93,97,98,92,92,92,92,90,58,65,NA,NA,NA
+"Niger",94,93,81,81,79,60,81,81,83,81,83,59,41,75,96,87
+"Nigeria",67,65,57,57,54,12,57,57,NA,57,65,40,40,73,52,61
+"Niue",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"North Macedonia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,93,62,NA,NA,NA
+"Norway",NA,98,97,97,97,95,97,97,95,96,NA,NA,NA,NA,NA,NA
+"Oman",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,99,56,59,NA,NA,NA
+"Pakistan",91,83,77,83,83,74,77,77,80,80,85,71,37,81,0,4
+"Palau",NA,99,96,96,93,83,93,89,82,75,NA,NA,NA,NA,NA,NA
+"Panama",99,93,74,74,80,74,74,74,86,74,NA,82,52,NA,NA,NA
+"Papua New Guinea",52,48,39,41,47,27,39,39,NA,39,67,63,30,50,52,69
+"Paraguay",84,84,79,78,80,72,79,79,80,82,95,89,28,86,NA,NA
+"Peru",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,95,61,34,61,NA,NA
+"Philippines",64,74,71,72,72,68,71,71,NA,66,91,66,45,55,NA,NA
+"Poland",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Qatar",98,89,82,89,90,90,82,82,83,70,NA,NA,NA,NA,NA,NA
+"Republic of Korea",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Republic of Moldova",95,86,86,87,84,93,87,86,56,72,NA,79,42,NA,NA,NA
+"Romania",97,95,87,87,87,75,87,87,NA,85,NA,NA,NA,NA,NA,NA
+"Russian Federation",98,97,97,97,97,96,97,NA,NA,87,NA,NA,NA,NA,NA,NA
+"Rwanda",89,91,91,91,94,91,91,91,91,91,97,54,34,62,56,66
+"Saint Kitts and Nevis",98,99,99,99,99,99,99,99,NA,NA,NA,NA,NA,NA,NA,NA
+"Saint Lucia",89,90,86,88,89,71,86,86,NA,NA,NA,NA,NA,NA,NA,NA
+"Saint Vincent and the Grenadines",99,99,97,99,99,99,97,97,NA,NA,NA,NA,NA,NA,NA,NA
+"Samoa",99,94,79,76,57,44,72,72,NA,NA,NA,72,59,63,NA,NA
+"San Marino",NA,92,89,89,90,79,89,88,NA,82,NA,NA,NA,NA,NA,NA
+"Sao Tome and Principe",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,99,82,42,62,63,78
+"Saudi Arabia",95,96,95,95,96,96,95,95,96,95,NA,NA,NA,NA,NA,NA
+"Senegal",95,93,91,84,88,69,92,92,92,92,95,48,26,50,65,81
+"Serbia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,90,36,NA,NA,NA
+"Seychelles",99,99,97,97,97,99,97,97,98,94,100,NA,NA,NA,NA,NA
+"Sierra Leone",72,93,91,90,87,67,91,91,90,91,93,76,85,75,59,68
+"Singapore",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slovakia",NA,99,97,97,96,98,97,97,NA,96,NA,NA,NA,NA,NA,NA
+"Slovenia",NA,98,95,95,94,91,NA,95,NA,70,NA,NA,NA,NA,NA,NA
+"Solomon Islands",82,98,94,92,81,51,94,94,41,93,87,79,37,62,70,86
+"Somalia",37,52,42,47,46,NA,42,42,NA,NA,60,23,13,37,11,19
+"South Africa",86,88,84,84,84,76,84,84,83,83,90,66,51,68,NA,NA
+"South Sudan",52,51,49,50,49,NA,49,49,NA,NA,65,48,39,57,42,63
+"Spain",NA,98,98,98,98,94,98,98,NA,88,NA,NA,NA,NA,NA,NA
+"Sri Lanka",99,96,96,96,96,96,96,96,NA,NA,99,52,54,92,4,6
+"State of Palestine",99,99,99,99,99,99,99,99,99,99,NA,77,32,NA,NA,NA
+"Sudan",92,96,90,90,86,68,90,90,92,90,81,48,20,NA,30,25
+"Suriname",NA,60,51,51,45,50,51,51,NA,NA,95,89,46,52,43,61
+"Sweden",26,98,97,97,97,95,97,97,83,97,NA,NA,NA,NA,NA,NA
+"Switzerland",NA,98,96,96,97,93,72,96,NA,86,NA,NA,NA,NA,NA,NA
+"Syrian Arab Republic",74,65,49,53,59,53,49,49,NA,NA,90,77,50,NA,NA,NA
+"Tajikistan",98,98,97,97,98,97,97,97,95,NA,NA,69,62,44,1,2
+"Thailand",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,98,80,73,76,NA,NA
+"Timor-Leste",88,87,86,86,79,78,86,86,NA,NA,83,70,70,58,55,64
+"Togo",96,87,82,80,69,46,82,82,78,82,83,39,14,54,61,71
+"Tokelau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tonga",99,99,99,99,99,99,99,99,NA,NA,NA,NA,NA,82,NA,NA
+"Trinidad and Tobago",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,74,45,NA,NA,NA
+"Tunisia",85,92,92,92,93,92,92,92,NA,82,97,98,40,74,NA,NA
+"Turkey",96,99,98,98,95,93,98,98,NA,95,95,45,NA,NA,NA,NA
+"Turkmenistan",98,99,98,98,98,99,99,99,95,23,NA,51,47,59,NA,NA
+"Turks and Caicos Islands",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tuvalu",99,99,95,90,93,85,93,93,NA,NA,NA,NA,44,79,NA,NA
+"Uganda",91,94,89,88,87,NA,89,89,88,89,83,71,47,87,60,83
+"Ukraine",93,93,81,84,85,82,81,85,NA,NA,NA,92,59,NA,NA,NA
+"United Arab Emirates",86,90,90,80,99,92,91,90,86,84,NA,NA,NA,NA,NA,NA
+"United Kingdom",NA,97,93,93,91,87,93,93,91,91,NA,NA,NA,NA,NA,NA
+"United Republic of Tanzania",87,88,86,65,84,67,86,86,82,80,91,55,45,75,55,78
+"United States",NA,97,93,92,91,95,91,90,75,82,NA,NA,NA,NA,NA,NA
+"Uruguay",99,98,92,91,95,91,92,92,NA,94,NA,91,NA,NA,NA,NA
+"Uzbekistan",99,96,95,97,99,99,95,95,90,93,NA,68,28,NA,NA,NA
+"Vanuatu",77,84,78,76,78,NA,78,78,NA,NA,78,72,48,57,51,83
+"Venezuela (Bolivarian Republic of)",82,73,54,62,76,28,54,54,NA,NA,67,72,38,NA,NA,NA
+"Viet Nam",95,96,94,80,97,93,94,94,NA,NA,96,81,51,NA,9,10
+"Yemen",71,83,72,66,68,46,72,72,73,72,70,34,25,33,NA,NA
+"Zambia",85,88,84,83,96,66,84,84,87,85,85,75,67,77,52,78
+"Zimbabwe",88,93,86,86,85,74,86,86,88,86,87,48,33,50,15,37
+"SUMMARY",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"East Asia and Pacific",93,94,92,91,92,87,92,36,3,16,89,NA,NA,NA,NA,NA
+"Europe and Central Asia",94,97,94,94,94,91,91,78,29,79,NA,NA,NA,NA,NA,NA
+"   Eastern Europe and Central Asia",97,96,94,95,94,93,94,65,20,75,NA,NA,NA,NA,NA,NA
+"   Western Europe",68,98,95,94,94,88,88,94,41,84,NA,NA,NA,NA,NA,NA
+"Latin America and Caribbean",68,85,77,76,83,64,78,77,69,73,93,NA,NA,NA,NA,NA
+"Middle East and North Africa",93,93,88,88,87,87,88,88,30,36,87,NA,NA,NA,NA,NA
+"North America",NA,97,93,92,91,94,90,90,76,82,NA,NA,NA,NA,NA,NA
+"South Asia",88,87,84,85,88,80,84,84,72,40,89,74,50,73,4,2
+"Sub-Saharan Africa",78,78,72,71,68,35,72,72,55,67,81,46,37,60,54,68
+"   Eastern and Southern Africa",80,83,78,77,75,50,78,78,75,73,85,51,41,59,51,68
+"   West and Central Africa",76,74,65,65,62,21,66,66,36,62,77,41,33,61,56,67
+"Least developed countries",81,82,76,75,73,47,76,76,56,71,85,49,42,57,50,64
+"World",85,87,83,83,84,70,83,70,46,49,86,62,44,68,NA,NA
+"For a complete list of countries and areas in the regions, subregions and country categories, see page on Regional Classifications or visit <data.unicef.org/regionalclassifications>. Sex disaggregated data for specific child health indicators are available at https://data.unicef.org/topic/child-health/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"It is not advisable to compare data from consecutive editions of The State of the World’s Children report.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"NOTES",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"- Data not available",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"h Excludes China.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"J For the calculation of regional and global vaccination coverage, the national coverage is considered to be 0 per cent for the countries that did not introduce the vaccine in their national schedule or did not report coverage, with the exception of BCG, which is only recommended in countries or settings with a high incidence of tuberculosis or high leprosy burden. World Population Prospects (2019 revision) estimates of target populations were used in the calculation of global and regional aggregates.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"F Generally, the second dose of measles−containing vaccine (MCV2) is recommended for administration during the second year of life; however, in many countries, MCV2 is scheduled after the second year. World Population Prospects (2019 revision) estimates of the second year of life target population were used to calculate regional and global aggregates.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"G WHO and UNICEF use a complex process employing administrative data, surveys (routine and supplemental), serosurveys, and information on other vaccines to calculate the percentage of births that can be considered as protected against tetanus because pregnant women were given two doses or more of tetanus toxoid (TT) vaccine.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"x Data refer to years or periods other than those specified in the column heading. Such data are not included in the calculation of regional and global averages. Estimates from data years prior to 2000 are not displayed.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"R Data refer to the most recent year available during the period specified in the column heading.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DEFINITIONS OF THE INDICATORS",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"BCG – Percentage of live births who received bacilli Calmette−Guérin (vaccine against tuberculosis).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DTP1 – Percentage of surviving infants who received the first dose of diphtheria, pertussis and tetanus vaccine.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DTP3 – Percentage of surviving infants who received three doses of diphtheria, pertussis and tetanus vaccine.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Polio3 – Percentage of surviving infants who received three doses of the polio vaccine.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"MCV1 – Percentage of surviving infants who received the first dose of the measles−containing vaccine.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"MCV2 – Percentage of children who received the second dose of measles−containing vaccine as per national schedule.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"HepB3 – Percentage of surviving infants who received three doses of hepatitis B vaccine.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hib3 – Percentage of surviving infants who received three doses of Haemophilus influenzae type b vaccine.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Rota – Percentage of surviving infants who received the last dose of rotavirus vaccine as recommended.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"PCV3 – Percentage of surviving infants who received three doses of pneumococcal conjugate vaccine.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Protection at birth (PAB) – Percentage of newborns protected at birth against tetanus with tetanus toxoid.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Care seeking for children with symptoms of Acute Respiratory Infection – Percentage of children under age 5 with symptoms of pneumonia (cough and fast or difficult breathing due to a problem in the chest) in the two weeks preceding the survey for whom advice or treatment was sought from a health facility or provider.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Diarrhoea treatment with oral rehydration salts – Percentage of children under age 5 who had diarrhoea in the two weeks preceding the survey and who received oral rehydration salts (ORS packets or pre−packaged ORS fluids).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Care seeking for children with fever – Percentage of children under age 5 with fever for whom advice or treatment was sought from a health facility or provider. Excludes drug vendor, stores, shops and traditional healer. In some countries, particularly non−malaria endemic countries, pharmacies have also been excluded from the calculation.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Children sleeping under ITNs – Percentage of children under age 5 who slept under an insecticide−treated mosquito net the night prior to the survey.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Households with at least one ITN – Percentage of households with at least one insecticide−treated mosquito net.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"MAIN DATA SOURCES",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Immunization – WHO and UNICEF estimates of national immunization coverage, 2020 revision. Last update: July 2021.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Care seeking for children with symptoms of Acute Respiratory Infection (ARI) – DHS, MICS and other national household surveys. Last update: January 2021.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Diarrhoea treatment with oral rehydration salts (ORS) – DHS, MICS and other national household surveys. Last update: January 2021.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Care seeking for children with fever – DHS, MICS, MIS and other national household surveys. Last update: January 2021.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Children sleeping under ITNs – DHS, MICS, MIS and other national household surveys. Last update: January 2021.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Households with at least one ITN – DHS, MICS, MIS and other national household surveys. Last update: January 2021.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
